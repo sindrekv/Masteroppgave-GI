@@ -1,0 +1,34 @@
+Relevant:
+
+openPDS: protecting the privacy of metadata through SafeAnswers
+http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0098790
+
+Preserving privacy in environments with location-based applications
+http://www.academia.edu/366173/Preserving_Privacy_In_Environments_With_Location-Based_Applications
+
+Bootstrapping networks, communities and infrastructures. On the evolution of ICTsolutions in health care
+http://www8.informatik.umu.se/digitalAssets/1/1407_Hanseth.pdf
+
+
+Litt på siden:
+
+The devil is in the metadata—New privacy challenges in Decentralised Online Social Networks
+http://www.peerson.net/papers/sesocMetaPrivacy.pdf
+
+Privacy Aspects in Big Data Integration: Challenges and Opportunitie
+http://dl.acm.org/citation.cfm?id=2669615&dl=ACM&coll=DL&CFID=498704667&CFTOKEN=99364321
+
+
+Big data privacy issues in public social media
+http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6227909&url=http%3A%2F%2Fieeexplore.ieee.org%2Fiel5%2F6222390%2F6227884%2F06227909.pdf%3Farnumber%3D6227909
+
+
+Morsomt:
+
+Little privacy in the age of big data
+http://www.theguardian.com/technology/2014/jun/20/little-privacy-in-the-age-of-big-data
+
+
+Designing calm technology
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.135.9788&rep=rep1&type=pdf
+
